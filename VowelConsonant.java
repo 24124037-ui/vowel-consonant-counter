@@ -29,6 +29,8 @@ public class VowelConsonant {
 
         sc.close();
         Updated program
+             update branch change
     }
 
 }
+
