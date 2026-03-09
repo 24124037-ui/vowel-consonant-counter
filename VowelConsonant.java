@@ -30,7 +30,9 @@ public class VowelConsonant {
         sc.close();
         Updated program
              update branch change
+            change for pull request
     }
 
 }
+
 
