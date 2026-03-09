@@ -28,5 +28,7 @@ public class VowelConsonant {
         System.out.println("Consonants = " + consonants);
 
         sc.close();
+        Updated program
     }
+
 }
